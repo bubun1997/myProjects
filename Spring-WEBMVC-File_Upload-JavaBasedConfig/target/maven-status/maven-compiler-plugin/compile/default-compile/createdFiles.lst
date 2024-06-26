@@ -1,0 +1,4 @@
+com\soumya\model\Car.class
+com\soumya\controller\MyController.class
+com\soumya\config\SpringConfig.class
+com\soumya\config\WebXmlConfig.class
